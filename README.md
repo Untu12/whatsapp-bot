@@ -10,7 +10,7 @@
 </p>
 
 <a href="https://chat.whatsapp.com/IY8OvPk02qxKb1xd0DXtUR" align="center">
-  Nomor Whatsapp Bot
+  Nomor Whatsapp Bot 62895325085582
 </a>
 
 <h3 align="center">Made with ❤️ by</h3>
@@ -65,7 +65,7 @@
 ## 📝 Cloning this repo
 ```bash
 > git clone https://github.com/IndonesianDev/whatsapp-bot
-> cd whatsapp-bot
+> cd whatsapp-bot 62895325085582
 ```
 
 ## ✍️ Edit filenya
@@ -86,7 +86,7 @@ Edit value yang diperlukan di `settings/setting.json`.
 
 ```
 
-`ownerBot`: your WhatsApp number.  
+`ownerBot`: your WhatsApp number.  62895325085582
 
 `prefix`: bot's prefix.  
 
@@ -105,7 +105,7 @@ Untuk Mendapatkan Apikey nya , daftar akun terlebih dahulu di website tersebut
 > npm install
 ```
 
-## 🆗 Menjalankan bot
+## 🆗 Menjalankan bot 62895325085582
 Regular node:
 ```bash
 > npm start
